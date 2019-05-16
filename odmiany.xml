@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <odmiany>
+    <LpOdmiany>1</LpOdmiany>
+    <nazwa>Amor</nazwa>
+    <plon>102</plon>
+    <zimotrwalosc>4 (dobra)</zimotrwalosc>
+    <wczesnosc>122 / 184</wczesnosc>
+    <OdpCzem>wysoka</OdpCzem>
+    <OdpSuchaZgn>średnia</OdpSuchaZgn>
+    <OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>2</LpOdmiany>
+	<nazwa>Baldur</nazwa>
+	<plon>113</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>124 / 183</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>średnia</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>3</LpOdmiany>
+	<nazwa>Batory</nazwa>
+	<plon>91</plon>
+	<zimotrwalosc>2 (mierna)</zimotrwalosc>
+	<wczesnosc>125 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>średnia</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>4</LpOdmiany>
+	<nazwa>Bazyl</nazwa>
+	<plon>100</plon>
+	<zimotrwalosc>100</zimotrwalosc>
+	<wczesnosc>121 / 185</wczesnosc>
+	<OdpCzem>NULL</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>5</LpOdmiany>
+	<nazwa>Bermuda</nazwa>
+	<plon>93</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>125 / 183</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>niska</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>6</LpOdmiany>
+	<nazwa>Bojan</nazwa>
+	<plon>109</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>126 / 185</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>7</LpOdmiany>
+	<nazwa>Bosman</nazwa>
+	<plon>95</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>124 / 185</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>8</LpOdmiany>
+	<nazwa>Bristol</nazwa>
+	<plon>95</plon>
+	<zimotrwalosc>2 (mierna)</zimotrwalosc>
+	<wczesnosc>122 / 180</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>niska</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>9</LpOdmiany>
+	<nazwa>Buffalo</nazwa>
+	<plon>106</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>124 / 182</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>niska</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>10</LpOdmiany>
+	<nazwa>Cabriolet</nazwa>
+	<plon>109</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>121 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>11</LpOdmiany>
+	<nazwa>Californium</nazwa>
+	<plon>100</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>122 / 183</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>12</LpOdmiany>
+	<nazwa>Capio</nazwa>
+	<plon>97</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>123 / 184</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>13</LpOdmiany>
+	<nazwa>Carina</nazwa>
+	<plon>100</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>124 / 184</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>14</LpOdmiany>
+	<nazwa>Carousel</nazwa>
+	<plon>106</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>124 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>15</LpOdmiany>
+	<nazwa>Cazek</nazwa>
+	<plon>101</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>122 / 183</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>16</LpOdmiany>
+	<nazwa>Contact</nazwa>
+	<plon>96</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>123 / 182</wczesnosc>
+	<OdpCzem>niska</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>17</LpOdmiany>
+	<nazwa>Dante</nazwa>
+	<plon>107</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>121 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>18</LpOdmiany>
+	<nazwa>Digger</nazwa>
+	<plon>107</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>125 / 182</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>19</LpOdmiany>
+	<nazwa>Diplomat</nazwa>
+	<plon>101</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>125 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>niska</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>20</LpOdmiany>
+	<nazwa>Exterm</nazwa>
+	<plon>115</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>124 / 184</wczesnosc>
+	<OdpCzem>NULL</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>NULL</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>21</LpOdmiany>
+	<nazwa>Gara</nazwa>
+	<plon>97</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>125 / 185</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>średnia</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>22</LpOdmiany>
+	<nazwa>Kana</nazwa>
+	<plon>97</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>123 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>niska</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>23</LpOdmiany>
+	<nazwa>Kasimir</nazwa>
+	<plon>105</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>125 / 183</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>24</LpOdmiany>
+	<nazwa>Kaszub</nazwa>
+	<plon>106</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>122 / 183</wczesnosc>
+	<OdpCzem>niska</OdpCzem>
+	<OdpSuchaZgn>średnia</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+			<LpOdmiany>25</LpOdmiany>
+	<nazwa>Kronos</nazwa>
+	<plon>112</plon>
+	<zimotrwalosc>5 (b. dobra)</zimotrwalosc>
+	<wczesnosc>124 / 183</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>niska</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+	<LpOdmiany>26</LpOdmiany>
+	<nazwa>Libomir</nazwa>
+	<plon>106</plon>
+	<zimotrwalosc>2 (mierna)</zimotrwalosc>
+	<wczesnosc>124 / 183</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>27</LpOdmiany>
+	<nazwa>Liclassic</nazwa>
+	<plon>103</plon>
+	<zimotrwalosc>2 (mierna)</zimotrwalosc>
+	<wczesnosc>124 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>28</LpOdmiany>
+	<nazwa>Lirajet</nazwa>
+	<plon>99</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>125 / 185</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>średnia</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>29</LpOdmiany>
+	<nazwa>Lisek</nazwa>
+	<plon>104</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>126 / 184</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>30</LpOdmiany>
+	<nazwa>Livius</nazwa>
+	<plon>105</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>124 / 183</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>31</LpOdmiany>
+	<nazwa>Lubusz</nazwa>
+	<plon>105</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>122 / 183</wczesnosc>
+	<OdpCzem>niska</OdpCzem>
+	<OdpSuchaZgn>niska</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>32</LpOdmiany>
+	<nazwa>Marita</nazwa>
+	<plon>91</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>127 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>33</LpOdmiany>
+	<nazwa>Mazur</nazwa>
+	<plon>107</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>123 / 184</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>34</LpOdmiany>
+	<nazwa>Olpop</nazwa>
+	<plon>104</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>123 / 183</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>35</LpOdmiany>
+	<nazwa>Pomorzanin</nazwa>
+	<plon>105</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>123 / 183</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>36</LpOdmiany>
+	<nazwa>Rafaela</nazwa>
+	<plon>98</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>125 / 185</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>średnia</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>37</LpOdmiany>
+	<nazwa>Rasmus</nazwa>
+	<plon>104</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>123 / 184</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>38</LpOdmiany>
+	<nazwa>Romana</nazwa>
+	<plon>96</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>125 / 184</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>wysoka</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>39</LpOdmiany>
+	<nazwa>Spencer</nazwa>
+	<plon>94</plon>
+	<zimotrwalosc>2 (mierna)</zimotrwalosc>
+	<wczesnosc>124 / 184</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>niska</OdpSuchaZgn>
+	<OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>40</LpOdmiany>
+	<nazwa>Titan</nazwa>
+	<plon>112</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>123 / 183</wczesnosc>
+	<OdpCzem>wysoka</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>średnia</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+		<LpOdmiany>41</LpOdmiany>
+	<nazwa>Viking</nazwa>
+	<plon>105</plon>
+	<zimotrwalosc>4 (dobra)</zimotrwalosc>
+	<wczesnosc>122 / 182</wczesnosc>
+	<OdpCzem>średnia</OdpCzem>
+	<OdpSuchaZgn>NULL</OdpSuchaZgn>
+	<OdpZgnTwardz>niska</OdpZgnTwardz>
+  </odmiany>
+  <odmiany>
+    <LpOdmiany>42</LpOdmiany>
+    <nazwa>Wotan</nazwa>
+    <plon>103</plon>
+    <zimotrwalosc>4 (dobra)</zimotrwalosc>
+    <wczesnosc>126 / 185</wczesnosc>
+    <OdpCzem>niska</OdpCzem>
+    <OdpSuchaZgn>wysoka</OdpSuchaZgn>
+    <OdpZgnTwardz>wysoka</OdpZgnTwardz>
+  </odmiany>
+  
+</xml>

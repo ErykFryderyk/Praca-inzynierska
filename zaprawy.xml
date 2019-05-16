@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+    <zaprawy>
+            <id>1</id>
+            <nazwa>Brasikol 250 FS</nazwa>
+            <rodzaj>insektycyd</rodzaj>
+            <substAktywne>
+              <substAktywan>imidachlopryd</substAktywan>
+              <substAktywan>alfa-cypermetryna</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>200 g/l</zawartosc>
+              <zawartosc>50 g/l</zawartosc>
+            </zawartosci>
+            <toksycznosc>szkodliwy</toksycznosc>
+    </zaprawy>
+    <zaprawy>
+            <id>2</id>
+            <nazwa>Chinook 200 FS</nazwa>
+            <rodzaj>insektycyd</rodzaj>
+            <substAktywne>
+              <substAktywan>imidachlopryd</substAktywan>
+              <substAktywan>beta-cyflutryna</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>100 g/l</zawartosc>
+              <zawartosc>100 g/l</zawartosc>
+            </zawartosci>
+            <toksycznosc>szkodliwy</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+            <id>3</id>
+            <nazwa>Chinook Plus 500 FS</nazwa>
+            <rodzaj>insektycyd</rodzaj>
+            <substAktywne>
+              <substAktywan>imidachlopryd</substAktywan>
+              <substAktywan>beta-cyflutryna</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>420 g/l</zawartosc>
+              <zawartosc>80 g/l</zawartosc>
+            </zawartosci>
+            <toksycznosc>szkodliwy</toksycznosc>
+  </zaprawy>
+  
+  <zaprawy>
+            <id>5</id>
+            <nazwa>Funaben T 480 FS</nazwa>
+            <rodzaj>fungicyd</rodzaj>
+            <substAktywne>
+              <substAktywan>tiuram</substAktywan>
+              <substAktywan>karbendazym</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>332 g/l</zawartosc>
+              <zawartosc>148 g/l</zawartosc>
+            </zawartosci>
+            <toksycznosc>pozostałe</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+    <id>6</id>
+            <nazwa>Oftanol T 50 DS</nazwa>
+            <rodzaj>insektycyd</rodzaj>
+            <substAktywne>
+              <substAktywan>izofenos</substAktywan>
+              <substAktywan>tiuram</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>40 %</zawartosc>
+              <zawartosc>10 %</zawartosc>
+            </zawartosci>
+            <toksycznosc>toksyczny</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+            <id>7</id>
+            <nazwa>Sarfun T 65 DS</nazwa>
+            <rodzaj>fungicyd</rodzaj>
+            <substAktywne>
+              <substAktywan>karbendazym</substAktywan>
+              <substAktywan>tiuram</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>45 %</zawartosc>
+              <zawartosc>20 %</zawartosc>
+            </zawartosci>
+            <toksycznosc>pozostałe</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+            <id>8</id>
+            <nazwa>Sarfun T 450 FS</nazwa>
+            <rodzaj>fungicyd</rodzaj>
+            <substAktywne>
+              <substAktywan>karbendazym</substAktywan>
+              <substAktywan>tiuram</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>311,5 g/l</zawartosc>
+              <zawartosc>138,5 g/l</zawartosc>
+            </zawartosci>
+            <toksycznosc>pozostałe</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+    <id>9</id>
+            <nazwa>Super Homai 70 DS</nazwa>
+            <rodzaje>
+              <rodzaj>fungicyd</rodzaj>
+              <rodzaj>insektycyd</rodzaj>
+            </rodzaje>
+            <substAktywne>
+              <substAktywan>tiuram</substAktywan>
+              <substAktywan>tiofanat metylowy</substAktywan>
+              <substAktywan>diazynon</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>35 %</zawartosc>
+              <zawartosc>10 %</zawartosc>
+              <zawartosc>15 %</zawartosc>
+            </zawartosci>
+            <toksycznosc>szkodliwy</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+            <id>10</id>
+            <nazwa>Zaprawa Furadan 350 ST</nazwa>
+            <rodzaj>insektycyd</rodzaj>
+            <substAktywne>
+              <substAktywan>karbofuran</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>350 g/l</zawartosc>
+            </zawartosci>
+            <toksycznosc>bardzo toksyczny</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+            <id>11</id>
+            <nazwa>Zaprawa Funaben T</nazwa>
+            <rodzaj>fungicyd</rodzaj>
+            <substAktywne>
+              <substAktywan>karbendazym</substAktywan>
+              <substAktywan>tiuram</substAktywan>
+            </substAktywne>
+            <zawartosci>
+              <zawartosc>45 %</zawartosc>
+              <zawartosc>20 %</zawartosc>
+            </zawartosci>
+            <toksycznosc>pozostałe</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+          <id>12</id>
+          <nazwa>Zaprawa Marshal 250 DS</nazwa>
+          <rodzaj>insektycyd</rodzaj>
+          <substAktywne>
+            <substAktywan>karbosulfan</substAktywan>
+          </substAktywne>
+          <zawartosci>
+            <zawartosc>250 g/l</zawartosc>
+          </zawartosci>
+          <toksycznosc>szkodliwy</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+          <id>13</id>
+          <nazwa>Zaprawa nasienna T (zawiesinowa)</nazwa>
+          <rodzaj>fungicyd</rodzaj>
+          <substAktywne>
+            <substAktywan>tiuram</substAktywan>
+          </substAktywne>
+          <zawartosci>
+            <zawartosc>75%</zawartosc>
+          </zawartosci>
+          <toksycznosc>pozostałe</toksycznosc>
+  </zaprawy>
+  <zaprawy>
+          <id>14</id>
+          <nazwa>Zaprawa Oxafun T 75 DS/WS</nazwa>
+          <rodzaj>fungicyd</rodzaj>
+          <substAktywne>
+            <substAktywan>karboksyna</substAktywan>
+            <substAktywan>tiuram</substAktywan>
+          </substAktywne>
+          <zawartosci>
+            <zawartosc>37,5%</zawartosc>
+            <zawartosc>37,5%</zawartosc>
+          </zawartosci>
+          <toksycznosc>pozostałe</toksycznosc>
+  </zaprawy>
+</xml>

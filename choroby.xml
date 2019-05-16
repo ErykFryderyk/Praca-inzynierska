@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <choroby>
+	        <LpCh>1</LpCh>
+	        <nazwa>Biała plamistość liści</nazwa>
+	        <nazwaLat>Pseudocercosporella capsellae</nazwaLat>
+	        <nazwaAng>White Spot</nazwaAng>
+	        <szkodliwosc>Choroba najczęściej rozwija się w okresach nasilonych opadów przy wysokim poziomie wilgotności i temperaturze 13-18 stopni. Porażone liście, łodygi i łuszczyny początkowo posiadają małe brązowo zabarwione plamki o wielkości do 1,5 mm potem plamki te zmieniają kolor na białoszary z ciemnymi krawędziami. Zaatakowane liście z czasem zasychają.</szkodliwosc>
+	        <terminuszm>IV - VI</terminuszm>
+	        <terminusz>50 - 89 od fazy pąkowania do fazy dojrzewania</terminusz>
+	        <progi>pierwsze oznaki choroby (1% roślin z objawami uszkodzeń) albo profilaktycznie.</progi>
+	        <metodyOchr>opryskiwanie fungicydami.</metodyOchr>
+	        <zdjecia>29</zdjecia>
+  </choroby>
+  <choroby>
+        <LpCh>2</LpCh>
+        <nazwa>Czerń krzyżowych</nazwa>
+        <nazwaLat>Alternaria brassicae</nazwaLat>
+        <nazwaAng>Black spot</nazwaAng>
+        <szkodliwosc>Zaatakowane siewki rzepaku ulegają tzw. zgorzeli, która objawia się występowaniem na częściach podliścieniowych łodyg okrągłych lub nieregularnych plam. Plamy te mają średnicę ok. 1mm i mogą rozciągać się na brzegi liścieni osiągając średnicę 0,5 cm. Objawy choroby widoczne są także u dorosłych roślin, na pędach, ogonkach liściowych i nerwach liści w postaci brunatnych wydłużonych plamek. Na liściach oraz łuszczynach powstają drobne czarnobrunatne plamki które wraz z rozwojem rośliny powiększają się. Na powierzchni plamek i wokół nich widoczny jest szarobiały lub szarożółty nalot. W wyniku działania choroby nasiona w łuszczynach nie wykształcają się bądź są nie w pełni rozwinięte natomiast tkanki łuszczyn i innych części rośliny zasychają i zamierają kurcząc się.</szkodliwosc>
+        <terminuszm>IV - VI</terminuszm>
+        <terminusz>wszystkie fazy</terminusz>
+        <progi>20-30% roślin z objawami choroby (od formowania się zaczątków pędów do fazy w pełni ukształtowanej rozety), 10-15% roślin z objawami choroby (od początku do pełni kwitnienia, koniec kwitnienia i początek zawiązywania łuszczyn).</progi>
+        <metodyOchr>niszczenie resztek pożniwnych, stosowanie głębokiej orki przedzimowej, sianie nasion zdrowych oczyszczonych z fragmentów porażonych roślin, zaprawianie nasion, opryskiwanie fungicydami.</metodyOchr>
+        <zdjecia>20</zdjecia>
+  </choroby>
+  <choroby>
+        <LpCh>3</LpCh>
+        <nazwa>Cylindrosporioza</nazwa>
+        <nazwaLat>Pyrenopeziza brassicae</nazwaLat>
+        <nazwaAng>Cylindrosporium disease</nazwaAng>
+        <szkodliwosc>Widoczne na liściach rzepaku ozimego chlorotyczne plamy w postaci małych białych kropek po obu stronach liścia, zaatakowane liście żółkną, ulegają zniekształceniu, więdną i przedwcześnie zamierają. Na powierzchni łodyg występują białoszare plamy z czarnymi cętkami na obwodzie. Choroba prowadzi do skarłowacenia roślin, uszkodzenia pąków, kwiatów i łuszczyn oraz przy dużym nasileniu do zamierania całych roślin.</szkodliwosc>
+        <terminuszm>X - VI</terminuszm>
+        <terminusz>13 - 89 od fazy 3-9 liści do fazy dojrzewania</terminusz>
+        <progi>10-20% roślin porażonych.</progi>
+        <metodyOchr>zabiegi agrotechniczne, terminowe wykonywanie podorywek i orek, głęboka orka, optymalna głębokość siewu, sianie nasion zdrowych, opryskiwanie fungicydami.</metodyOchr>
+        <zdjecia>21</zdjecia>
+  </choroby>
+  <choroby>
+          <LpCh>4</LpCh>
+          <nazwa>Kiła kapusty</nazwa>
+          <nazwaLat>Plasmodiophora brassicae</nazwaLat>
+          <nazwaAng>Club root</nazwaAng>
+          <szkodliwosc>Choroba atakuje rośliny w różnych fazach ich rozwoju. Na korzeniach zaatakowanej rośliny powstają małe jasnożółte i kruche narośla, które wraz z rozwojem rośliny ciemnieją i powiększają się. Zazwyczaj narośla występujące na korzeniu głównym są duże i nieregularne, a występujące na korzeniach bocznych mniejsze, wrzecionowate i palczaste. Zaatakowane rośliny wolniej się rozwijają, więdną, czasem przedwcześnie zamierają.</szkodliwosc>
+          <terminuszm>XI - V</terminuszm>
+          <terminusz>15 - 89 od fazy 3-9 liści do fazy dojrzewania</terminusz>
+          <progi>brak danych</progi>
+          <metodyOchr>stosowanie 4-5 letniego zmianowania w połączeniu z wapnowaniem, niszczenie chwastów i resztek pożniwnych, usuwanie z pola więdnących roślin przed ich gniciem.</metodyOchr>
+          <zdjecia>22</zdjecia>
+  </choroby>
+  <choroby>
+          <LpCh>5</LpCh>
+          <nazwa>Mączniak prawdziwy</nazwa>
+          <nazwaLat>Erysiphe cruciferarum</nazwaLat>
+          <nazwaAng>Powdery mildew</nazwaAng>
+          <szkodliwosc>Objawy choroby widoczne są na górnej i dolnej stronie liści oraz innych nadziemnych częściach zaatakowanej rośliny w postaci białego mączystego nalotu o średnicy 2 cm. Na powierzchni białego nalotu można zaobserwować czarne plamki które są owocnikami grzyba. Uszkodzone liście żółkną i stopniowo zamierają. Mączniak może atakować też łodygi i łuszczyny co objawią się drobnymi jasnymi plamami. Rozwój choroby następuje podczas ciepłej (temp. 17-20 stopni) i wilgotnej pogody.</szkodliwosc>
+          <terminuszm>IV - VI</terminuszm>
+          <terminusz>50 - 89 od fazy pąkowania do fazy dojrzewania</terminusz>
+          <progi>brak danych.</progi>
+          <metodyOchr>zabiegi agrotechniczne, optymalne nawożenie, obniżona norma wysiewu nasion.</metodyOchr>
+          <zdjecia>23</zdjecia>
+  </choroby>
+  <choroby>
+          <LpCh>6</LpCh>
+          <nazwa>Mączniak rzekomy</nazwa>
+          <nazwaLat>Peronospora parasitica</nazwaLat>
+          <nazwaAng>Downy mildew</nazwaAng>
+          <szkodliwosc>Objawy porażenia roślin przez mączniaka rzekomego widoczne są na górnej stronie zaatakowanych liścieni i liści w postaci chlorotycznych, żółtych lub szarobrunatnych plam. W tym samym miejscu po dolnej stronie liści widoczne są skupienia białego nalotu. Plamy pokrywają często znaczną powierzchnię liścia, co powoduje że porażone rośliny wolniej rosną i są mniejsze od zdrowych. Silnie uszkodzone liścienie i liście ulegają deformacji i przedwcześnie zamierają. Porażone łuszczyny mają jasnobrunatno, czasem czarno nakrapiane kanciaste plamy. Na rzepaku chorobę można zaobserwować w różnych fazach rozwoju, od wschodów do momentu obniżenia się temperatur oraz w okresie wiosennym.</szkodliwosc>
+          <terminuszm>IX - VI</terminuszm>
+          <terminusz>wszystkie fazy</terminusz>
+          <progi>brak danych.</progi>
+          <metodyOchr>niszczenie resztek pożniwnych, stosowanie głębokiej orki przedzimowej, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, stosowanie zdrowych nasion, opryskiwanie fungicydami.</metodyOchr>
+          <zdjecia>24</zdjecia>
+  </choroby>
+          <choroby>
+          <LpCh>7</LpCh>
+          <nazwa>Mozaika rzepaku</nazwa>
+          <nazwaLat>Turnip mosaic virus</nazwaLat>
+          <nazwaAng>TuMV</nazwaAng>
+          <szkodliwosc>Na liściach porażonych roślin można zaobserwować jasno- i ciemnozielone plamy układajace sie w charakterystyczną mozaikę. Liście rośliny zaatakowanej są zazwyczaj mniejsze od zdrowych, z czasem marszczą się. Pąki kwiatowe przedwcześnie opadają a nieliczne łuszczyny ulegają deformacji.</szkodliwosc>
+          <terminuszm>IV - V</terminuszm>
+          <terminusz>30 - 89 od wzrostu pędu głównego do fazy dojrzewania</terminusz>
+          <progi>brak danych.</progi>
+          <metodyOchr>zakładanie upraw rzepaku w oddaleniu od roślin kapustnych i innych krzyżowych, zwalczanie mszyc przenoszących chorobę jeżeli wystąpią w dużym nasileniu.</metodyOchr>
+          <zdjecia>31</zdjecia>
+  </choroby>
+  <choroby>
+          <LpCh>8</LpCh>
+          <nazwa>Sucha zgnilizna kapustnych</nazwa>
+          <nazwaLat>Leptosphaeria maculatus</nazwaLat>
+          <nazwaAng>Stem canker</nazwaAng>
+          <szkodliwosc>Pierwsze objawy ataku suchej zgnilizny kapustnych można zauważyć na siewkach rzepaku, szyjka korzeniowa rośliny ulega poczernieniu (tzw. faza czarnej nóżki) co doprowadza silnie porażone siewki do zamierania i zasychania. Na liścieniach, liściach, łodygach i łuszczynach można zaobserwować jasnobrunatne lub białe owalne plamy z widoczną obwódką. Na powierzchni plam występują gęsto ułożone punkciki z których po dojrzeniu wydostają się krople różowej kleistej substancji. Porażone liście zamierają natomiast podstawy łodyg pękają co może prowadzić do zamierania całych roślin.</szkodliwosc>
+          <terminuszm>IX - VI</terminuszm>
+          <terminusz>wszystkie fazy</terminusz>
+          <progi>20% roślin z objawami choroby (faza 2-8 liści do fazy w pełni ukształtowanej rozety jesienią), 10-15% roślin z objawami choroby (faza regeneracji rozety i początki formowania się łodygi do wybijania w pęd kwiatowy).</progi>
+          <metodyOchr>wprowadzenie 4-5 letnich przerw w uprawie roślin krzyżowych na tym samym polu, zakładanie plantacji rzepaku w dużej odległości od plantacji roślin krzyżowych, uprawa odmian mało podatnych na chorobę, zwalczanie szkodników powodujących rany na roślinach rzepaku, opryskiwanie fungicydami.</metodyOchr>
+          <zdjecia>25</zdjecia>
+  </choroby>
+  <choroby>
+          <LpCh>9</LpCh>
+          <nazwa>Szara pleśń</nazwa>
+          <nazwaLat>Botrytis cinerea</nazwaLat>
+          <nazwaAng>Grey mould</nazwaAng>
+          <szkodliwosc>Objawia się najczęściej w okresie wiosny lub jesieni, na nadziemnych częściach rośliny. Na liściach, łodygach, pąkach i łuszczynach zaobserwować można szarobrązowy nalot powodujący z biegiem czasu zamieranie porażonych części rośliny. Rośliny są szczególnie narażone na porażenie szarą pleśnią w okresach zimnej i mokrej pogody oraz na skutek uszkodzeń powstałych w okresach mrozów lub w wyniku działania szkodników.</szkodliwosc>
+          <terminuszm>X - VI</terminuszm>
+          <terminusz>15 - 89 od fazy 3-9 liści do fazy dojrzewania</terminusz>
+          <progi>20-30% roślin z objawami choroby (od fazy drugiego liści do fazy w pełni wykształconej rozety), 10-15% roślin z objawami choroby (od początku do pełni kwitnienia, koniec kwitnienia i początek zawiązywania się łuszczyn).</progi>
+          <metodyOchr>zabiegi agrotechniczne, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, stosowanie odmian genetycznie zmodyfikowanych, zwalczanie szkodników, unikanie uszkodzeń.</metodyOchr>
+          <zdjecia>26</zdjecia>
+  </choroby>
+  <choroby>
+          <LpCh>10</LpCh>
+          <nazwa>Werticilioza</nazwa>
+          <nazwaLat>Verticillium spp.</nazwaLat>
+          <nazwaAng>Verticillium</nazwaAng>
+          <szkodliwosc>Choroba ujawnia się na starszych liściach rzepaku w postaci źółtawych przebarwień ograniczonych ze wszystkich stron nerwami. Porażone części liści z czasem więdną, brunatnieją i obumierają. Charakterystyczną cechą werticiliozy jest porażenie tylko jednej strony liścia. Największe nasilenie choroby obserwuje się w okresach suszy.</szkodliwosc>
+          <terminuszm>IV - VI</terminuszm>
+          <terminusz>50 - 89 od fazy pąkowania do fazy dojrzewania</terminusz>
+          <progi>brak danych.</progi>
+          <metodyOchr>zabiegi agrotechniczne, usuwanie resztek pożniwnych, płodozmian.</metodyOchr>
+          <zdjecia>27</zdjecia>
+  </choroby>
+  <choroby>
+          <LpCh>11</LpCh>
+          <nazwa>Zgnilizna twardzikowa</nazwa>
+          <nazwaLat>Sclerotinia sclerotiorum</nazwaLat>
+          <nazwaAng>White rot</nazwaAng>
+          <szkodliwosc>Choroba atakuje liście i łodygi rzepaku oraz inne części rośliny powodując ich brunatnienie, obumieranie i gnicie. Objawy widoczne są wewnątrz, a w warunkach dużej wilgotności także na zewnątrz łodyg porażonych roślin. Na powierzchni łodygi widoczne są  białe plamy z nalotem grzybni natomiast wewnątrz znajdują sę szare a potem czarne sklerocja, o średnicy około 1 cm. Rozwojowi choroby sprzyja wysoka wilgotność i opadające płatki kwiatowe zalegające w rozwidleniach łodyg lub u nasady liści. Objawy choroby pojawiają się na rzepaku w okresie kwitnienia lub późniejszych fazach rozwojowych rośliny.</szkodliwosc>
+          <terminuszm>V - VI</terminuszm>
+          <terminusz>60 - 89 od fazy kwitnienia do fazy dojrzewania</terminusz>
+          <progi>pierwsze oznaki choroby (1% roślin z objawami uszkodzeń) albo profilaktycznie.</progi>
+          <metodyOchr>zabiegi agrotechniczne, głęboka orka, płodozmian, odmiany tolerancyjne, obniżona norma wysiewu nasion, optymalne nawożenie, zwalczanie chwastów, opryskiwanie roślin.</metodyOchr>
+          <zdjecia>28</zdjecia>
+  </choroby>
+  <choroby>
+          <LpCh>12</LpCh>
+          <nazwa>Zgorzel siewek</nazwa>
+          <nazwaLat>Pythium debaryanum, Fusarium avenaceum itp.</nazwaLat>
+          <nazwaAng>Damping-off</nazwaAng>
+          <szkodliwosc>Patogenami wywołującymi chorobę są różne gatunki grzybów, które występują pojedynczo lub powodują infekcje mieszane. Objawy zgorzeli najczęściej pojawiają się w warunkach wysokiej wilgotności, najczęściej po obfitych deszczach. Porażane są  wschodzące rośliny oraz starsze siewki rzepaku. Uszkodzona szyjka korzeniowa oraz podliścieniowa część łodygi ciemnieją i zwężają się. Siewki żółkną i więdną a następnie przewracają się i zamierają.</szkodliwosc>
+          <terminuszm>IX - X</terminuszm>
+          <terminusz>09-12 faza liścieni</terminusz>
+          <progi>brak danych.</progi>
+          <metodyOchr>zabiegi agrotechniczne, dobra struktura gleby, zaprawianie nasion, optymalna obsada roślin, właściwa głębokość.</metodyOchr>
+          <zdjecia>30</zdjecia>
+</choroby>
+</xml>

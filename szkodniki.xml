@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <szkodniki>
+	      <LpSzk>1</LpSzk>
+	      <nazwa>Chowacz brukwiaczek</nazwa>
+	      <nazwaLat>Ceutorhynchus napi Gyll.</nazwaLat>
+	      <nazwaAng>Rape stem weevil</nazwaAng>
+	      <systematyka>1</systematyka>
+	      <BudDorosly>(chrząszcz) koloru szarego bez plamek, ciało pokryte szarymi włoskowymi łuskami, na bocznych brzegach przedplecza wyrasta ząb, duży charakterystyczny wygięty do dołu ryjek. Długość chrząszcza 3,2 - 4 mm.</BudDorosly>
+	      <BudMlody>(larwa) żółtowo-biała pozbawiona odnóży, charakterystycznie zakrzywiona do wewnątrz, głowa początkowo czarnawa potem żółto-brązowa z szczeciną w górnej części. Długość larwy 7 mm.</BudMlody>
+	      <BudJajo>mlecznobiałe półprzeźroczyste, owalne. Długość jaja 0,6 - 0,8 mm.</BudJajo>
+	      <BudPoczwarka>szarobiała w kolebce ziemnej. Dlugość poczwarki 4 - 6 mm.</BudPoczwarka>
+	      <UszkLisci>Widoczne w kątach liści wydrążone przez larwy otwory.</UszkLisci>
+	      <UszkLodyg>Ukłucia wielkości ok. 1mm, początkowo śluzowate, potem białawo obrzeżone. W czasie rozwoju rośliny powstałe ukłucia powiększają się tworząc charakterystyczne zagłębienia i zgrubienia. W miarę wzrostu łodyga deformuje się, a roślina przybiera kształt litery S.</UszkLodyg>
+	      <UszkLuszczyn>NULL</UszkLuszczyn>
+	      <UszkPakow>NULL</UszkPakow>
+	      <UszkKorzeni>NULL</UszkKorzeni>
+	      <TerminUszkM>IV, IV/V</TerminUszkM>
+	      <TerminUszkF>30-39 wzrost pędu głównego, 50-59 pąkowanie</TerminUszkF>
+	      <MetodyObs>W przypadku chowacza brukwiaczka obserwacje należy prowadzić od wczesnej wiosny wykorzystując metodę „żółtych naczyń”. Zastosować można też metodę „czerpakowania” przeprowadzając obserwację wcześnie rano lub wieczorem analizując od 100-150 roślin i pobierając losowo po 10 roślin w różnych punktach pola.</MetodyObs>
+	      <Progi>ok. 10 sztuk chrząszczy w 1 żółtym naczyniu w ciągu 3 dni lub 2-4 chrząszczy na 25 roślinach.</Progi>
+	      <MetodyOchr>zabiegi agrotechniczne (szczególnie ważne są zabiegi wykonywane na wiosnę), zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny wysiew nasion, wysiew odmian późnych, opryskiwanie roślin.</MetodyOchr>
+	      <Zdjecia>1</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+	          <LpSzk>2</LpSzk>
+	          <nazwa>Chowacz czterozębny</nazwa>
+	          <nazwaLat>Ceutorhynchus quadridens Marsh.</nazwaLat>
+	          <nazwaAng>Cabbage stem weevil</nazwaAng>
+	          <systematyka>2</systematyka>
+	          <BudDorosly>(chrząszcz) czarny z szarozielonym odcieniem, na górnej stronie między pokrywami przy przedpleczu ma jasną plamkę, odnóża czerwonożółte, po obu stronach przedtułowia znajdują się duże wzgórki. Długość chrząszcza 2,5 - 3 mm.</BudDorosly>
+	          <BudMlody>(larwa) biała z ciemnobrązową głową bez szczeciny, łukowato wygięta, beznoga. Długość larwy 4 - 5,5 mm.</BudMlody>
+	          <BudJajo>mlecznobiałe, kuliste lub owalne. Długość jaja 0,5 - 0,6 mm.</BudJajo>
+	          <BudPoczwarka>brudnobiała. Długość poczwarki 3 - 4,5 mm.</BudPoczwarka>
+	          <UszkLisci>Nakłucia na nerwach głównych i ogonkach liściowych.</UszkLisci>
+	          <UszkLodyg>Larwy tworzą chodniki przebarwione na brązowo przez odchody, łodyga nie ulega deformacji podczas wzrostu. Silne uszkodzenia mogą powodować zahamowanie wzrostu oraz łamanie łodyg.</UszkLodyg>
+	          <UszkLuszczyn>NULL</UszkLuszczyn>
+	          <UszkPakow>NULL</UszkPakow>
+	          <UszkKorzeni>NULL</UszkKorzeni>
+	          <TerminUszkM>IV, IV/V</TerminUszkM>DO WYJANIENIA 
+	          <TerminUszkF>30-39 wzrost pędu głównego, 50-59 pąkowanie</TerminUszkF>DO WYJANIENIA 
+	          <MetodyObs>Podobnie jak u chowacza brukwiaczka obserwacje należy prowadzić od wczesnej wiosny wykorzystując metodę „żółtych naczyń”. Zastosować można też metodę „czerpakowania” przeprowadzając obserwację wcześnie rano lub wieczorem analizując od 100-150 roślin pobierając losowo po 10 roślin w różnych punktach pola.</MetodyObs>
+	          <Progi>20 chrząszczy w żółtym naczyniu w ciągu kolejnych 3 dni lub 6 chrząszczy na 25 roślinach.</Progi>
+	          <MetodyOchr>zabiegi agrotechniczne (szczególnie ważne są zabiegi wykonywane na wiosnę), zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny wysiew nasion, wysiew odmian późnych, opryskiwanie roślin.</MetodyOchr>
+	          <Zdjecia>2</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>3</LpSzk>
+	        <nazwa>Chowacz galasówek</nazwa>
+	        <nazwaLat>Ceutorhynchus pleurostigma Marsh.</nazwaLat>
+	        <nazwaAng>Turnip gall weevil</nazwaAng>
+	        <systematyka>3</systematyka>
+	        <BudDorosly>(chrząszcz) brunatnoszary, o charakterystycznym cienkim ryjku z wierzchołkiem zabarwionym na czerwono, białe łuski na bokach ciała i części brzusznej. Długość chrząszcza 2,5 - 3 mm.</BudDorosly>
+	        <BudMlody>(larwa) jasnobiała, beznoga, łukowato wygięta z wyodrębnioną głową, wzdłuż boków ciała na każdym segmencie (z wyjątkiem tułowia) widoczny guzek (uwypuklenie) w kształcie stożka, na głowie widoczne szczecinki. Długość larwy 5 mm.</BudMlody>
+	        <BudJajo>brudnobiałe, półprzezroczyste, owalne.</BudJajo>
+	        <BudPoczwarka>biała, na stronie grzbietowej ma nieliczne guzki, na końcu ostatniego segmentu widoczne są 2 kolce zagięte wierzchołkami ku sobie. Długość poczwarki 3,7 mm.</BudPoczwarka>
+	        <UszkLisci>Młode chrząszcze żerujące na początku czerwca, tworzą w blaszce liściowej małe otworki.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>"Larwy chowacza tworzą charakterystyczne okrągłe, gładkościenne narośla o średnicy około 1cm na szyjce korzeniowej lub korzeniu głównym rośliny. W korzeniach widoczne są też wydrążone przez larwy chodniki. Uszkodzone rośliny są bardziej podatne na przemarzanie.</UszkKorzeni>
+	        <TerminUszkM>X/IX, IV</TerminUszkM>
+	        <TerminUszkF>13-19 4-9 liści, 30-39 wzrost pędu głównego</TerminUszkF>
+	        <MetodyObs>Ocenę liczebności szkodnika powinno przeprowadzać się systematycznie od wschodów rzepaku. W tym celu w różnych punktach pola wybiera się po 1m bieżącym rzędu roślin i na nich liczy się chrząszcze, analizuje się od 10 do 15 punktów w zależności od wielkości pola.</MetodyObs>
+	        <Progi>ponad 2 chrząszcze na 1m bieżącym.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne, zwalczanie chwastów, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny siew nasion, zaprawianie nasion, opryskiwanie zwłaszcza na brzegach plantacji.</MetodyOchr>
+	        <Zdjecia>15</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>4</LpSzk>
+	        <nazwa>Chowacz podobnik</nazwa>
+	        <nazwaLat>Ceutorhynchus assimilis Payk.</nazwaLat>
+	        <nazwaAng>Cabbage seed weevil</nazwaAng>
+	        <systematyka>4</systematyka>
+	        <BudDorosly>(chrząszcz) jest czarny z gęstym rzędowo ułożonym szarawym owłosieniem, prążki na pokrywach skrzydeł równej szerokości, głowa ryjkowato wydłużona a ciało pokryte łuskami. Długość chrząszcza 2,5 - 3mm.</BudDorosly>
+	        <BudMlody>(larwa) biała z ciemnobrązową głową bez szczeciny, łukowato wygięta, beznoga. Długość larwy 4 - 5,5 mm.</BudMlody>
+	        <BudJajo>koloru białego, błyszczące, owalne pokryte bezbarwną stwardniałą wydzieliną. Długość jaja 0,5 mm.</BudJajo>
+	        <BudPoczwarka>brudnożółta. Długość 3 - 4 mm.</BudPoczwarka>
+	        <UszkLisci>Chrząszcze żerują w ciągu mniej więcej tygodnia, wygryzaąc drobne otwory w łodygach i liściach.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>Larwa powoduje uszkodzenia do pięciu zalążków nasion w łuszczynie, która pozostaje zamknięta, lekko zdeformowana i przedwcześnie żółknie. Powstałe uszkodzenia wykorzystywane są przez pryszczarka kapustnika do składania jaj.</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>V/VI, VI</TerminUszkM>
+	        <TerminUszkF>71-79 rozwój owoców, 80-89 dojrzewanie</TerminUszkF>
+	        <MetodyObs>Kontrola polega na obserwacji nalotów szkodnika, które szczególnie są widoczne na części plantacji przylegającej do terenów zadrzewionych. Obserwację metodą czerpakowania należy rozpocząć przed początkiem kwietnia analizując od 100 do 150 roślin (w różnych punktach pola oddalonych od siebie o ok. 20m), zbierając po 10 roślin. Chrząszcza zbierać poprzez wytrząsanie pąków kwiatowych na powierzchnię np. białej kartki papieru.</MetodyObs>
+	        <Progi>4 chrząszcze na 25 roślinach, 100 chrząszczy w żółtym naczyniu w ciągu kolejnych 6 dni.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wysiew odmian późno zakwitających, opryskiwanie roślin zwłaszcza brzegów pola.</MetodyOchr>
+	        <Zdjecia>3</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>5</LpSzk>
+	        <nazwa>Chowacz rzepiczak</nazwa>
+	        <nazwaLat>Ceutorhynchus picitarsis Gyll.</nazwaLat>
+	        <nazwaAng>Rape winter stem weevil</nazwaAng>
+	        <systematyka>5</systematyka>
+	        <BudDorosly>(chrząszcz) czarny z lekko czerwonymi odnóżami, ciało połyskujące z jasnymi łuskami pod spodem, na obu bokach przedplecza mały wzgórek. Długość chrząszcza 2,5 - 4 mm.</BudDorosly>
+	        <BudMlody>(larwa) kremowobiała, bez odnóży z brązową głową. Długość larwy 4 - 5 mm.</BudMlody>
+	        <BudJajo>NULL</BudJajo>
+	        <BudPoczwarka>NULL</BudPoczwarka>
+	        <UszkLisci>NULL</UszkLisci>
+	        <UszkLodyg>Larwy szkodnika drążą w dolnych częściach łodygi u podstawy pędu korytarze, uszkodzone części roślin pękają, rośliny są karłowate i mocno rozkrzewione, a w dalszych etapach rozwoju rozkrzewiają się, kwitną i dojrzewają nierównomiernie.</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>X/XI, III/IV</TerminUszkM>
+	        <TerminUszkF>13-19 4-9 liści, 21-29 rozwój pędów bocznych</TerminUszkF>
+	        <MetodyObs>Podobnie jak w wypadku innych chrząszczy.</MetodyObs>
+	        <Progi>brak danych.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne,  zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, zaprawianie nasion, opryskiwanie roślin.</MetodyOchr>
+	        <Zdjecia>4</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>6</LpSzk>
+	        <nazwa>Drążyny</nazwa>
+	        <nazwaLat>Baris spp.</nazwaLat>
+	        <nazwaAng>Small black weevil</nazwaAng>
+	        <systematyka>6</systematyka>
+	        <BudDorosly>(chrząszcz) ma niebieskie lub ciemnozielone pokrywy skrzydeł z metalicznym połyskiem, silnie rozwinięty ryjek, ciało wydłużone. Długość chrząszcza 3,5 - 6 mm.</BudDorosly>
+	        <BudMlody>(larwa) biaława z brązową głową, rogalikowo zgięta, bez odnóży.</BudMlody>
+	        <BudJajo>NULL</BudJajo>
+	        <BudPoczwarka>NULL</BudPoczwarka>
+	        <UszkLisci>NULL</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>Larwy drążą chodniki w korzeniu oraz szyjce korzeniowej.</UszkKorzeni>
+	        <TerminUszkM>IV/V, V</TerminUszkM>
+	        <TerminUszkF>50-59 pąkowanie, 60-69 kwitnienie</TerminUszkF>
+	        <MetodyObs>Podobnie jak w wypadku chowacza galasówka.</MetodyObs>
+	        <Progi>podobnie jak chowacz galasówek.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny siew nasion, zwiększenie wysiewu nasion, zaprawianie nasion, opryskiwane roślin i gleby.</MetodyOchr>
+	        <Zdjecia>16</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>7</LpSzk>
+	        <nazwa>Drutowce</nazwa>
+	        <nazwaLat>NULL</nazwaLat>
+	        <nazwaAng>Click beetle, Striped elaterid beetle</nazwaAng>
+	        <systematyka>7</systematyka>
+	        <BudDorosly>gatunków z rodziny sprężykowatych (chrząszcz) jest brunatnoszary, ciało wydłużone o małej głowie, bruzdkowane pokrywy i aparat skoczny pomiędzy śród- a przedpleczem. Długość chrząszcza 7 - 15 mm.</BudDorosly>
+	        <BudMlody>(larwy) sprężykowatych zwane drutowcami są barwy brązowej lub żółtej, ciało równowąskie, walcowate lub spłaszczone, silnie wydłużone z trzema parami krótkich nóg i niedługimi trzyczłonowymi czułkami, koniec odwłoka jest charakterystyczny dla poszczególnych gatunków. Długość larwy 25 mm.</BudMlody>
+	        <BudJajo>NULL</BudJajo>
+	        <BudPoczwarka>NULL</BudPoczwarka>
+	        <UszkLisci>NULL</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>Drutowce ogryzają korzenie boczne i przegryzają korzeń główny co doprowadza do więdnięcia i obumierania młodych roślin.</UszkKorzeni>
+	        <TerminUszkM>X/XI</TerminUszkM>
+	        <TerminUszkF>13-20 4-9 liści</TerminUszkF>
+	        <MetodyObs>Zgodnie z zaleceniami Zakładu Nasiennictwa i Ochrony Ziemniaków w Boninie stosuje się dwie metody. Jedną z metod jest wykonanie tzw. odkrywek glebowych, polegających na pobraniu próbek gleby z dołków o wymiarach 25 x 25 cm i głębokości 30 cm oraz przesianiu ziemi w celu wykrycia larw. Na 1 ha trzeba wykonać 32 dołki po przekątnej pola. Na każdym następnym hektarze liczbę dołków należy zwiększyć o 4. Ocenę taką przeprowadzić można wiosną przed sadzeniem, gdy temperatura gleby wynosi 7-80C wówczas larwy zaczynają atakować. Inną zalecaną metodą jest stosowanie pułapek pokarmowych. Polega na tym, że wiosną do otworów w glebie na głębokości 15 cm umieszcza się na 1 ha 10 pułapek z przynętą zbożową (namoczone ziarno pszenicy z jęczmieniem lub kukurydzą. Następnie przykrywa się ziarno luźną ziemią, czarną folią i oznacza palikiem, kiełkujące ziarno wydziela enzymy i dwutlenek węgla, które przyciągają larwy. Po 10 dniach od wyłożenia pułapek liczy się ilość larw.</MetodyObs>
+	        <Progi>11 larw na 1m bieżący pola.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne, wczesny siew nasion, zwiększenie wysiewu nasion, zaprawianie nasion, granulaty.</MetodyOchr>
+	        <Zdjecia>17</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>8</LpSzk>
+	        <nazwa>Gnatarz rzepakowiec</nazwa>
+	        <nazwaLat>Athalia colibri Christ.</nazwaLat>
+	        <nazwaAng>Coleseed saw-fly</nazwaAng>
+	        <systematyka>8</systematyka>
+	        <BudDorosly>(błońkówka) koloru pomarańczowego z czarnym rysunkiem, szeroka czarna głowa, czułki 9 - 10 członowe, żółtawe, skrzydła błoniaste, 2 pary o rozpiętości 14 mm.  Długość błońkówki 6 - 8 mm.</BudDorosly>
+	        <BudMlody>(larwa) podobna do gąsienic motyli, początkowo szarozielona, później czarna z podłużnymi jasnymi pasami, z trzema parami odnóży tułowiowych i ośmioma parami odnóży odwłokowych, ostatnie pary odnóży są jaśniejsze, ciało walcowate.</BudMlody>
+	        <BudJajo>kremowe, nerkowate, po złożeniu pęcznieją wskutek wchłaniania wody. Długość jaja 0,8 mm.</BudJajo>
+	        <BudPoczwarka>iemno-szara, w zielonym kokonie, zbliżona jest z wyglądu do owada dojrzałego. Długość poczwarki 5 - 7 mm.</BudPoczwarka>
+	        <UszkLisci>Młode larwy gnatarza uszkadzają dolną część liści zeskrobując tkankę i wygryzając drobne otwory w blaszce. Starsze larwy żerują na górnej stronie ogryzając całe liście, pozostawiają jedynie główne nerwy, kwiatostany oraz łuszczyny.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>IX, X, IV/V, V</TerminUszkM>
+	        <TerminUszkF>09-10 liścienie, 11-12 1-3 liścienie, 50-59 pąkowania, 60-69 kwitnienie</TerminUszkF>
+	        <MetodyObs>Obserwację prowadzi się jesienią od wschodów roślin i w maju, przeglądając po 100 roślin na plantacji.</MetodyObs>
+	        <Progi>1 gąsienica na 1 roślinie.</Progi>
+	        <MetodyOchr>zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny siew nasion, zwiększenie wysiewu nasion, zaprawianie nasion, opryskiwanie roślin i gleby.</MetodyOchr>
+	        <Zdjecia>5</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>9</LpSzk>
+	        <nazwa>Miniarka kapuścianka</nazwa>
+	        <nazwaLat>Phytomyza rufipes Meig.</nazwaLat>
+	        <nazwaAng>Cabbage leaf miner</nazwaAng>
+	        <systematyka>9</systematyka>
+	        <BudDorosly>(muchówka) popielatoszary, na czole głowy umieszczone są dwie dłuższe szczecinki, na ciemieniu zaś cztery lub sześć krótszych szczecinek orbitalnych. Długość muchówki 3 mm.</BudDorosly>
+	        <BudMlody>(larwa) białożółta, cylindryczna, segmenty w środkowej części punktowane, ostatni segment zakończony palczastym wyrostkiem, bez głowy i odnóży. Długość larwy do 6mm.</BudMlody>
+	        <BudJajo>NULL</BudJajo>
+	        <BudPoczwarka>(bobówka) brunatnoszara, bryłkowata. Długość 3 mm.</BudPoczwarka>
+	        <UszkLisci>Szkodnik żeruje na górnej stronie blaszki liściowej tworząc chodniki, początkowo wzdłuż nerwów liścia a później w nerwach. Zaatakowane liście żółkną, więdną i przedwcześnie obumierają.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>X/XI</TerminUszkM>
+	        <TerminUszkF>13-20 4-9 liści</TerminUszkF>
+	        <MetodyObs>NULL</MetodyObs>
+	        <Progi>brak danych.</Progi>
+	        <MetodyOchr>zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny siew nasion, zwiększenie wysiewu nasion, zaprawianie nasion, opryskiwanie roślin.</MetodyOchr>
+	        <Zdjecia>6</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>10</LpSzk>
+	        <nazwa>Mszyca kapuściana</nazwa>
+	        <nazwaLat>Brevicoryne brassicae L.</nazwaLat>
+	        <nazwaAng>Cabbage aphid</nazwaAng>
+	        <systematyka>10</systematyka>
+	        <BudDorosly>ma szarozielone zabarwienie, ciało pokryte woskową wydzieliną, czułki 6-członowe i krótsze od ciała, syfony krótkie i pośrodku zgrubiałe Długość 2 - 2,5 mm.</BudDorosly>
+	        <BudMlody>(larwa) podobna do osobnika dorosłego.</BudMlody>
+	        <BudJajo>po złożeniu żółte, po 3-4 dniach czarne; owalne, na jednym końcu wyraźnie zwężone. Długość 0,5 mm, szerokość 0,25 mm.</BudJajo>
+	        <BudPoczwarka>NULL</BudPoczwarka>
+	        <UszkLisci>łodyg, łuszczyn: Duże kolonie mszyc występują na wierzchołkach głównego pędu kwiatowego oraz na pędach bocznych. Szkodniki występują również na ogonkach liściowych, szypułkach łuszczyn oraz na łuszczynach i liściach. Zaatakowane części rośliny w wyniku niedoboru wilgoci żółkną następnie brunatnieją i zasychają.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>Pod koniec czerwca i na początku lipca mszyce tworzą kolonie na kwiatostanach i owocnikach rzepaku. Wierzchołki pędów przybierają zabarwienie fioletowe a kwiaty opadają, młode łuszczyny opadają natomiast stare żółkną i przedwcześnie dojrzewają.</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>IV/V, V</TerminUszkM>
+	        <TerminUszkF>50-59 pąkowanie, 60-69 kwitnienie</TerminUszkF>
+	        <MetodyObs>Od wczesnej wiosny obserwować pojawienie się mszyc uskrzydlonych na pędach kwiatowych i bocznych. Obserwacje prowadzić na 100 roślinach, 5 razy po 20 roślin.</MetodyObs>
+	        <Progi>na brzegu plantacji 2 kolonie mszyc na 1m bieżącym.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny siew nasion, zrównoważone nawożenie, zaprawianie nasion, opryskiwanie selektywnymi insektycydami.</MetodyOchr>
+	        <Zdjecia>7</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>11</LpSzk>
+	        <nazwa>Nicienie</nazwa>
+	        <nazwaLat>Nematoda</nazwaLat>
+	        <nazwaAng>Roundworms</nazwaAng>
+	        <systematyka>11</systematyka>
+	        <BudDorosly>Nicienie są  bezbarwne, często z widocznym przewodem pokarmowym o barwie pożywienia, ciało wydłużone, walcowate rzadko wrzecioniowate. ¦ rednia długość ciała wynosi ok. 1mm natomiast grubość 0.2mm. Okryte naskórkiem gładkim lub pierścieniowym ciało jest zwykle niesegmentowane, można jednak rozróżnić przód ciała z głową. Na bokach widać podłużne linie tzw. linie boczne. Tylna część ciała poza narządem odbytowym zwana ogonem. Otwór gębowy otoczony jest 3 lub 6 wargami i prowadzi do torebki gębowej, której budowa jest ważną cechą systematyczną.</BudDorosly>
+	        <BudMlody>NULL</BudMlody>
+	        <BudJajo>NULL</BudJajo>
+	        <BudPoczwarka>NULL</BudPoczwarka>
+	        <UszkLisci>Objawy wywołane przez nicienie często określa się jako chorobę ponieważ rośliny porażone przez dużą liczbę nicieni rzeczywiście chorują a objawy często przypominają niektóre choroby grzybowe. Objawami porażenia rośliny są najczęściej: zły wzrost rośliny i jej skrócony okres wegetacji, skręcanie się, żółknięcie i opadanie liści, gnicie części podziemnych, tworzenie się wyrośli na korzeniach, zmiany w korzeniach bocznych, niewłaściwe formowanie się nasion i wiele innych. Nicienie uszkadzają także mechanicznie rośliny w wyniku przemieszczania się po ich powierzchni. Nie powoduje to jednak tak dużych szkód jak wydzieliny narządów nabocznych oraz gruczołów gardzieli nicieni. Składniki tych wydzielin powodują zniszczenie ścian komórek. W wyniku działania szkodnika zachwianiu może także ulec metabolizm rośliny co powoduje powstanie narośli na korzeniach (galasów).</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>NULL</TerminUszkM>
+	        <TerminUszkF>NULL</TerminUszkF>
+	        <MetodyObs>Objawy uszkodzenia rośliny przez nicienie często mylone są z zmianami powodowanymi przez inne szkodniki rzepaku. Analizę roślin podejrzewanych o porażenie rozpoczynamy od wykopania rośliny zwracając szczególną uwagę aby nie uszkodzić drobnych korzeni. Na tych korzeniach można zaobserwować pierwsze z objawów działania nicieni – wyrośla tzw. galasy.  W wypadku gdy podejrzewamy porażenie także części nadziemnych rośliny tniemy na sieczkę liście, łodygi oraz korzenie i układamy na wyścielony gazą lub ligniną lejek, na którego szyjkę jest założona gumowa rurka z zaciskaczem. Lejek wypełniamy wodą i zostawiamy na kilkanaście godzin, nicienie w wodzie wychodzą z rośliny przechodzą przez ligninę lub gazę i opadają do nóżki lejka. Przy dużym porażeniu znajdziemy w wodzie dużą liczbę nicieni.</MetodyObs>
+	        <Progi>NULL</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne, prawidłowy płodozmian: 5-letnia przerwa w uprawie, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, granulaty.</MetodyOchr>
+	        <Zdjecia>18</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>12</LpSzk>
+	        <nazwa>Pchełka rzepakowa</nazwa>
+	        <nazwaLat>Psylliodes chrysocephala L.</nazwaLat>
+	        <nazwaAng>Cabbage stem flea beetle</nazwaAng>
+	        <systematyka>12</systematyka>
+	        <BudDorosly>(chrząszcz) ma barwę ciemnoniebieską lub ciemnozieloną z widocznym metalicznym połyskiem, głowa i nogi brunatnoczerwone, biodra tylnej pary nóg czarne, czułki 10-członowe, pokrywy skrzydeł rzędowo punktowane, ciało podłużnie owalne. Długość chrząszcza 3 - 4 mm.</BudDorosly>
+	        <BudMlody>(larwa) brudnobiała z ciemnobrązową głową i trzema parami odnóży tłowiowych, ciało pokryte plamkami oraz szczotkowatym owłosieniem, na ostatnim segmencie ciała widoczne kolce. Długość larwy 6 - 7 mm.</BudMlody>
+	        <BudJajo>owalne. Długość 0,8 mm, szerokość 0,4 mm.</BudJajo>
+	        <BudPoczwarka>żółtawa. Długość 4 - 5 mm.</BudPoczwarka>
+	        <UszkLisci>Widoczne wygryzione na liścieniach i liściach otwory, przy dużym nasileniu występowania szkodnika liście zostają sitowato podziurawione. Uszkodzenie liści prowadzi często do zamierania młodych roślin. Larwy powodują także uszkodzenia ogonków liściowych, nerwów liściowych oraz pędów drążąc w nich korytarze.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>X/XI, III/IV</TerminUszkM>
+	        <TerminUszkF>13-20 4-9 liści, 21-29 rozwój pędów bocznych</TerminUszkF>
+	        <MetodyObs>Systematyczne kontrole plantacji prowadzi się od wschodów rzepaku ozimego analizując liczbę występowania chrząszczy w różnych punktach pola. Wybiera się 1m bieżący rzędu roślin i liczy chrząszcze, a następnie oblicza średnią liczbę szkodnika przypadającą na jedną roślinę. W zależności od wielkości pola analizę przeprowadza się w 10 do 15 punktach.</MetodyObs>
+	        <Progi>3 chrząszcze na 1m bieżącym lub 1-2 larwy na 1 roślinę.</Progi>
+	        <MetodyOchr>zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, zwalczanie chwastów z rodziny krzyżowych na których żeruje pchełka zanim przejdzie na młode rośliny rzepaku, wczesny siew nasion, zwiększenie wysiewu nasion, zaprawianie nasion, opryskiwanie roślin.</MetodyOchr>
+	        <Zdjecia>8</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>13</LpSzk>
+	        <nazwa>Pomrowik plamisty</nazwa>
+	        <nazwaLat>Deroceras reticulatum M.</nazwaLat>
+	        <nazwaAng>Loach, Little grey slug</nazwaAng>
+	        <systematyka>13</systematyka>
+	        <BudDorosly>(ślimak) kremowy, słomkowy lub jasnobrązowy z ciemnobrunatnymi lub czarnymi plamkami, na grzbiecie osadzony ma płaszcz sięgający 1/3 długości ciała, otwór oddechowy w tylnej części płaszcza, za płaszczem występuje krótka listwa grzbietowa. Długość do 4,5 cm.</BudDorosly>
+	        <BudMlody>NULL</BudMlody>
+	        <BudJajo>przeźroczyste, owalne. Wielkość 3 x 2,5 mm.</BudJajo>
+	        <BudPoczwarka>NULL</BudPoczwarka>
+	        <UszkLisci> ¦ limak powoduje największe uszkodzenia roślin w okresie wschodów, niszczy siewki i młode rośliny zjadając je w całości bądź ścinając je nad powierzchnią gleby.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>IX, X</TerminUszkM>
+	        <TerminUszkF>09-10 liścienie, 11-12 1-3 liście</TerminUszkF>
+	        <MetodyObs>Kontrola polega na obserwacji liczebności ślimaków w pułapkach diagnostycznych (10 pułapek na 1ha uprawy) w okresie zbioru przedplonu do fazy rozwojowej rzepaku 3-4 liście oraz na obserwacji uszkodzeń roślin w okresie od wschodów do fazy 3-4 liścia. Obserwacje uszkodzeń roślin prowadzi się na 20 siewkach lub 10 roślinach w fazie 1-4 liścia wybranych losowo w 15 miejscach plantacji rzepaku.</MetodyObs>
+	        <Progi>w okresie wschodów: 2-3 ślimaki na pułapkę lub uszkodzenie 5% siewek; w fazie 1-4 liści i później: 4 lub więcej ślimaków na pułapkę lub uszkodzenie 10% roślin.</Progi>
+	        <MetodyOchr>zintegrowane stosowanie uprawowych, agrotechnicznych i chemicznych zabiegów zwalczania: rotacja roślin w zmianowaniu, usuwanie resztek pożniwnych, niszczenie chwastów, poprawa struktury gleby, wałowanie gleby, głęboki siew, duży rozstaw roślin, stosowanie granulowanych moluskocydów.</MetodyOchr>
+	        <Zdjecia>9</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>14</LpSzk>
+	        <nazwa>Pryszczarek kapustnik</nazwa>
+	        <nazwaLat>Dasyneura brassicae Winn.</nazwaLat>
+	        <nazwaAng>Brassica pod midge</nazwaAng>
+	        <systematyka>14</systematyka>
+	        <BudDorosly>(muchówka) Samiec koloru brązowego, odwłok czerwony lub brudnożółty, 16-członkowe czułki, długie i cienkie odnóża, długość 0,8 - 1,5 mm. Samica ma odwłok koloru czerwonego, 15-członkowe czułki, długość 2 - 2,2mm.</BudDorosly>
+	        <BudMlody>(larwa) początkowo połprzeźroczysta, potem biała i żółtobiała, bez głowy i odnóży, długości ok. 2mm.</BudMlody>
+	        <BudJajo>początkowo czerwonawe, później brudnobiałe. Długość jaja 0.5 mm.</BudJajo>
+	        <BudPoczwarka>żółtobiała. Długość poczwarki 1,5 mm.</BudPoczwarka>
+	        <UszkLisci>NULL</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>Larwy uszkadzają nasiona oraz wysysają wnętrze ścian łuszczyn powodując nabrzmiewanie i deformację łuszczyn oraz ich przedwczesne żółknięcie łuszczyn. Powoduje to osypywanie się nasion i powstawanie samosiewów.</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>V/VI, VI</TerminUszkM>
+	        <TerminUszkF>71-79 rozwój owoców, 80-89 dojrzewanie</TerminUszkF>
+	        <MetodyObs>Obserwację przeprowadza się w okresie kwitnienia wykorzystując metodę czerpakowania. Analizuje się od 100 do 150 roślin pobierając losowo 10 roślin w różnych punktach pola. Zalecana jest duża ostrożność aby nie spłoszyć muchówek. Następnie należy obliczyć średnią liczbę muchówek przypadającą na jedną roślinę.</MetodyObs>
+	        <Progi>1 owad na 4 rośliny.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne,  zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych,  wysiew odmian późno zakwitających, zwalczanie chowacza podobnika ponieważ uszkodzenia łuszczyn powodowane przez tego chrząszcza wpływ	ają na szkodliwość pryszczarka kapustnika, opryskiwanie roślin zwłaszcza na brzegach plantacji.</MetodyOchr>
+	        <Zdjecia>10</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>15</LpSzk>
+	        <nazwa>Rolnica zbożówka</nazwa>
+	        <nazwaLat>Agrotis segetum</nazwaLat>
+	        <nazwaAng>Turnip moth, Bark feeding cutworm</nazwaAng>
+	        <systematyka>15</systematyka>
+	        <BudDorosly>(motyl) ma skrzydła przednie koloru szarobrunatnego posiadają charakterystyczny rysunek  składający się z plam (o kształcie klinowatym, nerkowatym i okrągłym), a tylne jaśniejsze. Rozpiętość skrzydeł 25 - 40 mm.</BudDorosly>
+	        <BudMlody>(gąsienica) oliwkowobrunatna z ciemną linią na grzbiecie, posiada odnóża. Długość gąsienicy 40 mm.</BudMlody>
+	        <BudJajo>początkowo mleczno-białe, później czerwonawe. Długość ok. 6 mm.</BudJajo>
+	        <BudPoczwarka>czerwonobrunatna zamknięta.</BudPoczwarka>
+	        <UszkLisci>Rośliny w sadium liscieni lub pierwszych liści odcinane są od korzeni zaraz nad powierzchnią gleby. Gąsienice wciągają częściowo rośliny do wcześniej wydrążonych w glebie tuneli.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>IX, X</TerminUszkM>
+	        <TerminUszkF>09-10 liścienie, 11-12 1-3 liście</TerminUszkF>
+	        <MetodyObs>Poszukiwanie gąsienic na liścieniach i liściach oraz pod powierzchnią gleby wokół korzeni roślin.</MetodyObs>
+	        <Progi>6-8 gąsienic na 1m bieżącym.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wcześniejszy i gęsty wysiew, zwalczanie chwastów, zwiększenie nawożenia, opryskiwanie gleby i roślin, granulaty.</MetodyOchr>
+	        <Zdjecia>12</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>16</LpSzk>
+	        <nazwa>Słodyszek rzepakowy</nazwa>
+	        <nazwaLat>Meligethes aeneus L.</nazwaLat>
+	        <nazwaAng>Pollen beetle, Blossom beetle, Rape beetle</nazwaAng>
+	        <systematyka>16</systematyka>
+	        <BudDorosly>(chrząszcz) czarny z metalicznie błyszczącymi skrzydłami o odcieniu granatowym, ciemnozielonym lub brązowym; głowa, przedplecze i pokrywy skrzydeł są gęsto i równomiernie punktowane; posiada 3-członowe czułki zakończone buławką. Długość chrząszcza 1,5 - 2,5 mm.</BudDorosly>
+	        <BudMlody>(larwa) zabarwiona na biało z charakterystycznymi ciemnymi plamkami na grzbiecie oraz ciemnoszarą głową, ciało pokryte rzadkimi włoskami, 3 pary krótkich czarnobrązowych odnóży. Długość larwy 3,5 - 4 mm.</BudMlody>
+	        <BudJajo>białe, wydłużone. Długość jaja 0,5 mm.</BudJajo>
+	        <BudPoczwarka>ma na przedpleczu sześć brodawek ze sterczącymi włoskami natomiast ostatni segment posiada dwa kolce zagięte wierzchołkami ku sobie. Długość poczwarki 2 mm.</BudPoczwarka>
+	        <UszkLisci>NULL</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>Szkodnik nagryza pąki kwiatowe u nasady, wgryza się do nich i wyżera wnętrze. Zaatakowane pąki żółkną, usychają i następnie opadają. Skutkiem tego kwiatostany są nieregularne a łuszczyny nieregularnie rozłożone.</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>IV/V – V</TerminUszkM>
+	        <TerminUszkF>50-59 pąkowanie, 60-69 kwitnienie</TerminUszkF>
+	        <MetodyObs>Najczęściej stosowaną metodą kontrolowania liczebności chrząszczy jest metoda „żółtych naczyń” Zapewnia ona najskuteczniejsze monitorowanie pierwszych nalotów i aktywności szkodnika. Inną metodą jest obserwacja brzegowych pasów pola polegająca na losowym pobraniu po 5 roślin w odstępach 2-3 metrowych z połowy każdego brzegu pola. Następnie należy policzyć znajdujące się na tych roślinach chrząszcze i określić ile przypada średnio na jedną roślinę. Kolejną metodą jest pobranie losowo po 10 roślin w różnych miejscach pola (pobieramy 100-150 sztuk) a następnie określenie średniej z liczby chrząszczy.</MetodyObs>
+	        <Progi>przy zwartym kwiatostanie (faza BBCH 5/50-52) 1-2 chrząszczy na 1 roślinie; przy luźnym kwiatostanie (faza BBCH 5/53-59) 3-5 chrząszczy na 1 roślinie.</Progi>
+	        <MetodyOchr>zabiegi agrotechniczne, zwalczanie chwastów, zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wysiew odmian wczesnych, wysiew odmian wcześnie zakwitających, zwiększenie dawek nawożenia, opryskiwanie roślin, zwłaszcza na brzegach plantacji.</MetodyOchr>
+	        <Zdjecia>13</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>17</LpSzk>
+	        <nazwa>Tantiś krzyżowiaczek</nazwa>
+	        <nazwaLat>Plutella maculipennis Curt.</nazwaLat>
+	        <nazwaAng>Diamond-back moth</nazwaAng>
+	        <systematyka>17</systematyka>
+	        <BudDorosly>(motyl) przednią parę skrzydeł ma szarobrazową z białą trzykrotnie falisto rozszerzoną smugą wzdłuż tylnej krawędzi, tylna para szara; złożone skrzydła tworzą rysunek o zarysie romboidalnym. Długość 8 - 9 mm, rozpiętość skrzydeł 15 - 17 mm.</BudDorosly>
+	        <BudMlody>gąsienica) zielonkawa z ciemną głową, wrzecionowata, na ciele długie, czarne szczecinki, po dotknięciu zwijaja się i opuszczają na glebę po nitce przędzy, posiada odnóża. Długość gąsienicy 10 mm.</BudMlody>
+	        <BudJajo>żółtawe, owalne, lekko spłaszczone.</BudJajo>
+	        <BudPoczwarka>NULL</BudPoczwarka>
+	        <UszkLisci>Gąsienice wygryzają na powierzchni liści liczne, drobne, nieregularne zagłębienia. Wygryziona zostaje skórka dolna oraz miękisz, pozostaje tylko górna skórka która w miarę wzrostu liści pęka i w liściach tworzą się otwory.</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>NULL</UszkKorzeni>
+	        <TerminUszkM>X/XI</TerminUszkM>
+	        <TerminUszkF>13-20 4-9 liści</TerminUszkF>
+	        <MetodyObs>NULL</MetodyObs>
+	        <Progi>brak danych.</Progi>
+	        <MetodyOchr>głęboka orka jesienna, zwalczanie chwastów, opryskiwanie roślin lub gleby w momencie wylęgu pierwszych gąsienic.</MetodyOchr>
+	        <Zdjecia>14</Zdjecia>
+  </szkodniki>
+  <szkodniki>
+		        <LpSzk>18</LpSzk>
+	        <nazwa> ¦ Śmietka kapuściana</nazwa>
+	        <nazwaLat>Phorbia brassicae Bche.</nazwaLat>
+	        <nazwaAng>Cabbage fly</nazwaAng>
+	        <systematyka>18</systematyka>
+	        <BudDorosly>(muchówka) samiec jest czarnoszary a samica brązowoszara, charakterystyczna czerwona plamka na srebrzysto-białym czole. Długość muchówki 5 - 6 mm.</BudDorosly>
+	        <BudMlody>(larwa) żółtobiała, bez głowy i odnóży, z wieńcem wyrostków na obwodzie. Długość larwy 7 - 8 mm.</BudMlody>
+	        <BudJajo>białe, podłużne. Długość jaja 1,2 mm.</BudJajo>
+	        <BudPoczwarka>(bobówka) brązowa w kształcie beczułki. Długość poczwarki 4 - 7 mm.</BudPoczwarka>
+	        <UszkLisci>NULL</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>Uszkodzenia w postaci brązowych przebarwień i miejsc nadgniłych występują na szyjce korzeniowej i korzeniach rzepaku. Korzenie boczne obumarłe. W korzeniach widoczne wydrążone chodniki i obumarłą tkankę, w której żerują larwy szkodnika. Uszkodzone rośliny są karłowate i często obumierają.</UszkKorzeni>
+	        <TerminUszkM>X/XI, V/VI, VI</TerminUszkM>
+	        <TerminUszkF>13-20 4-9 liści, 71-79 rozwój owoców, 80-89 dojrzewanie</TerminUszkF>
+	        <MetodyObs>NULL</MetodyObs>
+	        <Progi>brak danych.</Progi>
+	        <MetodyOchr>zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny wysiew nasion, zmniejszenie wysiewu nasion, zaprawianie nasion, opryskiwanie roślin.</MetodyOchr>
+	        <Zdjecia>19</Zdjecia>
+ </szkodniki>
+    <szkodniki>
+		        <LpSzk>19</LpSzk>
+	        <nazwa/>
+	        <nazwaLat/>
+	        <nazwaAng/>
+	        <systematyka/>
+	        <BudDorosly/>
+	        <BudMlody>(larwa) żółtobiała, bez głowy i odnóży, z wieńcem wyrostków na obwodzie. Długość larwy 7 - 8 mm.</BudMlody>
+	        <BudJajo>białe, podłużne. Długość jaja 1,2 mm.</BudJajo>
+	        <BudPoczwarka>(bobówka) brązowa w kształcie beczułki. Długość poczwarki 4 - 7 mm.</BudPoczwarka>
+	        <UszkLisci>NULL</UszkLisci>
+	        <UszkLodyg>NULL</UszkLodyg>
+	        <UszkLuszczyn>NULL</UszkLuszczyn>
+	        <UszkPakow>NULL</UszkPakow>
+	        <UszkKorzeni>Uszkodzenia w postaci brązowych przebarwień i miejsc nadgniłych występują na szyjce korzeniowej i korzeniach rzepaku. Korzenie boczne obumarłe. W korzeniach widoczne wydrążone chodniki i obumarłą tkankę, w której żerują larwy szkodnika. Uszkodzone rośliny są karłowate i często obumierają.</UszkKorzeni>
+	        <TerminUszkM>X/XI, V/VI, VI</TerminUszkM>
+	        <TerminUszkF>13-20 4-9 liści, 71-79 rozwój owoców, 80-89 dojrzewanie</TerminUszkF>
+	        <MetodyObs>NULL</MetodyObs>
+	        <Progi>brak danych.</Progi>
+	        <MetodyOchr>zakładanie upraw rzepaku w oddaleniu od roślin krzyżowych, wczesny wysiew nasion, zmniejszenie wysiewu nasion, zaprawianie nasion, opryskiwanie roślin.</MetodyOchr>
+	        <Zdjecia>19</Zdjecia>
+ </szkodniki>
+  
+  
+		
+</xml>

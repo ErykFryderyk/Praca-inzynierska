@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <srodkiOchrony>
+	          <LpSrodki>1</LpSrodki>
+	          <nazwa>Alert 375 SC</nazwa>
+	          <rodzaj>fungicyd</rodzaj>
+	          <SubstAktywne>flusilazol, karbendazy</SubstAktywne>
+	          <zawartosci>
+		          <zawartosc>250 g/l</zawartosc>
+		          <zawartosc>125 g/l</zawartosc>
+	          </zawartosci>
+	          <toksycznosc>pozostałe</toksycznosc>
+	          <optTemp/>
+	          <karencja>35 dni</karencja>
+	          <prewencja>nie dotyczy</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+		        <LpSrodki>2</LpSrodki>
+	        <nazwa>Alfamor 050 SC</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>alfa-cypermetryna</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>50 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>pozostałe</toksycznosc>
+	        <optTemp>pon. 20 stopni C.</optTemp>
+	        <karencja>14 dni</karencja>
+	        <prewencja>6 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>3</LpSrodki>
+	        <nazwa>Alfazot 050 EC</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>alfa-cypermetryna</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>50 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>pon. 20 stopni C.</optTemp>
+	        <karencja>14 dni</karencja>
+	        <prewencja>1 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>4</LpSrodki>
+	        <nazwa>Alphaguard 100 EC</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>alfa-cypermetryna</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>100 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>pon. 20 stopni C.</optTemp>
+	        <karencja>14 dni</karencja>
+	        <prewencja>6 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>5</LpSrodki>
+	        <nazwa>Alphatop 100 EC</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>alfa-cypermetryna</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>100 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>pon. 20 stopni C.</optTemp>
+	        <karencja>14 dni</karencja>
+	        <prewencja>6 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>6</LpSrodki>
+	        <nazwa>Amistar 250 SC</nazwa>
+	        <rodzaj>fungicyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>azoksystrobina</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>250 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>pozostałe</toksycznosc>
+	        <optTemp>NULL</optTemp>
+	        <karencja>35 dni</karencja>
+	        <prewencja>nie dotyczy</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			<LpSrodki>7</LpSrodki>
+	        <nazwa>Ammo 250 EC</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>cypermetryna</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>250 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>pon. 20 stopni C.</optTemp>
+	        <karencja>14 dni</karencja>
+	        <prewencja>3 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>8</LpSrodki>
+	        <nazwa>Anty-ślimak Spiess 04 GB</nazwa>
+	        <rodzaj>moluskocyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>metaldehyd</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>4 %</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>pozostałe</toksycznosc>
+	        <optTemp>NULL</optTemp>
+	        <karencja>NULL</karencja>
+	        <prewencja>NULL</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>9</LpSrodki>
+	        <nazwa>Atak 450 EC</nazwa>
+	        <rodzaj>fungicyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>prochloraz</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>450 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>pozostałe</toksycznosc>
+	        <optTemp>NULL</optTemp>
+	        <karencja>45 dni</karencja>
+	        <prewencja>3 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>10</LpSrodki>
+	        <nazwa>Bancol 50 WP</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>bensultap</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>450 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>10 - 35 stopni C.</optTemp>
+	        <karencja>21 dni</karencja>
+	        <prewencja>3 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>11</LpSrodki>
+	        <nazwa>Basudin 25 EC</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>diazynon</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>25 %</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>pow. 15 stopni C.</optTemp>
+	        <karencja>14 dni</karencja>
+	        <prewencja>24 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>12</LpSrodki>
+	        <nazwa>Basudin 600 EW</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>diazynon</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>600 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>pow. 15 stopni C.</optTemp>
+	        <karencja>14 dni</karencja>
+	        <prewencja>24 godz.</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>13</LpSrodki>
+	        <nazwa>Benazol 50 WP</nazwa>
+	        <rodzaj>fungicyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>benomyl</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>50 %</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>NULL</optTemp>
+	        <karencja>35 dni</karencja>
+	        <prewencja>NULL</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>14</LpSrodki>
+	        <nazwa>Benlate 50 WP</nazwa>
+	        <rodzaj>fungicyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>benomyl</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>50 %</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>NULL</optTemp>
+	        <karencja>35 dni</karencja>
+	        <prewencja>NULL</prewencja>
+  </srodkiOchrony>
+  <srodkiOchrony>
+			        <LpSrodki>15</LpSrodki>
+	        <nazwa>Bulldock 025 EC</nazwa>
+	        <rodzaj>insektycyd</rodzaj>
+	        <SubstAktywne>
+		        <SubstAktywan>beta-cyflutryna</SubstAktywan>
+	        </SubstAktywne>
+	        <zawartosci>
+		        <zawartosc>25 g/l</zawartosc>
+		        </zawartosci>
+	        <toksycznosc>szkodliwy</toksycznosc>
+	        <optTemp>pon. 20 stopni C.</optTemp>
+	        <karencja>35 dni</karencja>
+	        <prewencja>6 godz</prewencja>
+ </srodkiOchrony>
+  
+</xml>
